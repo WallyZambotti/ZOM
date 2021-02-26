@@ -9,8 +9,11 @@ Create a folder structure and place the ZOM-1.0-SNAPSHOT-jar-with-dependencies.j
 Create two subfolders, AnalysisData and TradeData
 
 .../MyZomFolder
+
                  /ZOM-1.0.jar
+                 
                  /AnalysisData
+                 
                  /TradeData
 
 Navigate to that folder and start the app :
